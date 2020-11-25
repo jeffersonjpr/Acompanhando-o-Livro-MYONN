@@ -5,6 +5,6 @@ Link de Compra do livro: [Make Your Own Neural Network](https://www.amazon.com/M
 [Blog Oficial](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)    
 
 _________________________________________________
-- [ ] Prologue
--- [ ] The Search for Intelligent Machines
--- [ ] A Nature Inspired New Golden Age
+* [ ] Prologue    
+  * [ ] The Search for Intelligent Machines    
+  * [ ] A Nature Inspired New Golden Age    
