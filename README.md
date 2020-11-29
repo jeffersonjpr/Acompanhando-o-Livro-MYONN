@@ -6,6 +6,6 @@ Link de Compra do livro: [Make Your Own Neural Network](https://www.amazon.com/M
 
 _________________________________________________
 # **Make Your Own Neural Network**    
-* :white_check_mark: Prologue    
-  * :black_square_button: The Search for Intelligent Machines    
+* :black_square_button: Prologue    
+  * :white_check_mark: The Search for Intelligent Machines    
   * :black_square_button: A Nature Inspired New Golden Age
