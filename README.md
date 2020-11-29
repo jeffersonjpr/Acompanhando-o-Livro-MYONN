@@ -9,13 +9,11 @@ _________________________________________________
 * ⬜ Prologue    
   * ✅ The Search for Intelligent Machines    
   * ⬜ A Nature Inspired New Golden Age
-  
 * ⬜ Introduction
   * ⬜ Who is this book for?
   * ⬜ What will we do?
   * ⬜ How will we do it?
   * ⬜ Author’s Note
-
 * ⬜ Part 1 - How They Work
   * ⬜ Easy for Me, Hard for You
   * ⬜ A Simple Predicting Machine
@@ -33,21 +31,17 @@ _________________________________________________
   * ⬜ How Do We Actually Update Weights?
   * ⬜ Weight Update Worked Example
   * ⬜ Preparing Data
-
 * ⬜ Part 2 - DIY with Python
   * ⬜ Python
   * ⬜ Interactive Python = IPython
   * ⬜ A Very Gentle Start with Python
   * ⬜ Neural Network with Python
   * ⬜ The MNIST Dataset of Handwritten Numbers
-
 * ⬜ Part 3 - Even More Fun
   * ⬜ Your Own Handwriting
   * ⬜ Inside the Mind of a Neural Network
   * ⬜ Creating New Training Data: Rotations
-  
 * ⬜ Epilogue
-
 * ⬜ Appendix A:
 * ⬜ A Gentle Introduction to Calculus
   * ⬜ A Flat Line
@@ -59,7 +53,6 @@ _________________________________________________
   * ⬜ Patterns
   * ⬜ Functions of Functions
   * ⬜ You can do Calculus!
-
 * ⬜ Appendix B:
 * ⬜ Do It with a Raspberry Pi
   * ⬜ Installing IPython
