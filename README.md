@@ -38,7 +38,7 @@ _________________________________________________
   - [ ] Preparing Data
 
 - [ ] Part 2 - DIY with Python
-  - [ ] Python
+  - [x] Python
   - [ ] Interactive Python = IPython
   - [ ] A Very Gentle Start with Python
   - [ ] Neural Network with Python
