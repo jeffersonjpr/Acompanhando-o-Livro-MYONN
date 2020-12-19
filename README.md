@@ -42,6 +42,8 @@ _________________________________________________
   - [x] Interactive Python = IPython
   - [ ] A Very Gentle Start with Python
     - [x] Notebooks
+    - [x] Simple Python
+    - [ ] Automating Work
   - [ ] Neural Network with Python
   - [ ] The MNIST Dataset of Handwritten Numbers
 
