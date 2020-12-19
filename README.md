@@ -39,7 +39,7 @@ _________________________________________________
 
 - [ ] Part 2 - DIY with Python
   - [x] Python
-  - [ ] Interactive Python = IPython
+  - [x] Interactive Python = IPython
   - [ ] A Very Gentle Start with Python
   - [ ] Neural Network with Python
   - [ ] The MNIST Dataset of Handwritten Numbers
