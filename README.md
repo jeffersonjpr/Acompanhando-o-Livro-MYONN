@@ -43,7 +43,8 @@ _________________________________________________
   - [ ] [A Very Gentle Start with Python](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/A%20Very%20Gentle%20Start%20with%20Python)
     - [x] Notebooks
     - [x] Simple Python
-    - [ ] Automating Work
+    - [x] Automating Work
+    - [ ] Comments
   - [ ] Neural Network with Python
   - [ ] The MNIST Dataset of Handwritten Numbers
 
