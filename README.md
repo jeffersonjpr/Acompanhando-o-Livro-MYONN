@@ -45,7 +45,8 @@ _________________________________________________
     - [x] Simple Python
     - [x] Automating Work
     - [x] Comments
-    - [ ] Functions
+    - [x] Functions
+    - [ ] Arrays
   - [ ] Neural Network with Python
   - [ ] The MNIST Dataset of Handwritten Numbers
 
