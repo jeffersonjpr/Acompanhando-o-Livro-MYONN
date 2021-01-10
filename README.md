@@ -3,21 +3,21 @@ Repositório feito para guardar o meu progresso na leitura do livro, para resolu
 
 Repositório Oficial: [makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)    
 Compre o livro: [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/r)  
-Blog Oficial: [Make Your Own Neural Network](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)    
+Blog Oficial: [Make Your Own Neural Network](http://makeyourownneuralnetwork.blogspot.com/)    
 _________________________________________________
 ## **Complementos**
 Palestra: [Tariq Rashid - A Gentle Introduction to Neural Networks (with Python)](https://www.youtube.com/watch?v=b7oYqAlX_Bo)    
 _________________________________________________
 ## **Make Your Own Neural Network**    
-- [ ] Prologue
+- [x] Prologue
   - [x] The Search for Intelligent Machines    
-  - [ ] A Nature Inspired New Golden Age
+  - [x] A Nature Inspired New Golden Age
 
-- [ ] Introduction
-  - [ ] Who is this book for?
-  - [ ] What will we do?
-  - [ ] How will we do it?
-  - [ ] Author’s Note
+- [x] Introduction
+  - [x] Who is this book for?
+  - [x] What will we do?
+  - [x] How will we do it?
+  - [x] Author’s Note
 
 - [ ] Part 1 - How They Work
   - [ ] Easy for Me, Hard for You
@@ -75,3 +75,5 @@ _________________________________________________
   - [ ] Making Sure Things Work
   - [ ] Training And Testing A Neural Network
   - [ ] Raspberry Pi Success!
+_________________________________________________
+*All copyrighted content (images, codes, etc.) belong to their respective owners and are not included under the license of this repositorie.*
