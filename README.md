@@ -20,8 +20,8 @@ _________________________________________________
   - [x] Author’s Note
 
 - [ ] Part 1 - How They Work
-  - [ ] Easy for Me, Hard for You
-  - [ ] A Simple Predicting Machine
+  - [x] Easy for Me, Hard for You
+  - [x] A Simple Predicting Machine
   - [ ] Classifying is Not Very Different from Predicting
   - [ ] Training A Simple Classifier
   - [ ] Sometimes One Classifier Is Not Enough
