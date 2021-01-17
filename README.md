@@ -23,7 +23,7 @@ _________________________________________________
   - [x] Easy for Me, Hard for You
   - [x] [A Simple Predicting Machine](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%201%20-%20A%20Simple%20Predicting%20Machine)
   - [x] Classifying is Not Very Different from Predicting
-  - [ ] Training A Simple Classifier
+  - [x] Training A Simple Classifier
   - [ ] Sometimes One Classifier Is Not Enough
   - [ ] Neurons, Nature’s Computing Machines
   - [ ] Following Signals Through A Neural Network
