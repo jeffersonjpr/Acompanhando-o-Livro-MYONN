@@ -47,7 +47,8 @@ _________________________________________________
     - [x] Comments
     - [x] Functions
     - [x] Arrays
-    - [ ] Plotting arrays
+    - [x] Plotting arrays
+    - [ ] Objects
   - [ ] Neural Network with Python
   - [ ] The MNIST Dataset of Handwritten Numbers
 
