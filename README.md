@@ -25,7 +25,7 @@ _________________________________________________
   - [x] Classifying is Not Very Different from Predicting
   - [x] Training A Simple Classifier
   - [x] Sometimes One Classifier Is Not Enough
-  - [ ] Neurons, Nature’s Computing Machines
+  - [x] Neurons, Nature’s Computing Machines
   - [ ] Following Signals Through A Neural Network
   - [ ] Matrix Multiplication is Useful .. Honest!
   - [ ] A Three Layer Example with Matrix Multiplication
