@@ -26,7 +26,7 @@ _________________________________________________
   - [x] Training A Simple Classifier
   - [x] Sometimes One Classifier Is Not Enough
   - [x] Neurons, Nature’s Computing Machines
-  - [ ] Following Signals Through A Neural Network
+  - [x] Following Signals Through A Neural Network
   - [ ] Matrix Multiplication is Useful .. Honest!
   - [ ] A Three Layer Example with Matrix Multiplication
   - [ ] Learning Weights From More Than One Node
