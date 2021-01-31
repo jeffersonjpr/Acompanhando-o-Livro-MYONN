@@ -28,7 +28,7 @@ _________________________________________________
   - [x] Neurons, Nature’s Computing Machines
   - [x] Following Signals Through A Neural Network
   - [x] Matrix Multiplication is Useful .. Honest!
-  - [ ] A Three Layer Example with Matrix Multiplication
+  - [x] A Three Layer Example with Matrix Multiplication
   - [ ] Learning Weights From More Than One Node
   - [ ] Backpropagating Errors From More Output Nodes
   - [ ] Backpropagating Errors To More Layers
