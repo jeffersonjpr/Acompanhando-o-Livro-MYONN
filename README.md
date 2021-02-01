@@ -30,7 +30,7 @@ _________________________________________________
   - [x] Matrix Multiplication is Useful .. Honest!
   - [x] A Three Layer Example with Matrix Multiplication
   - [x] Learning Weights From More Than One Node
-  - [ ] Backpropagating Errors From More Output Nodes
+  - [x] Backpropagating Errors From More Output Nodes
   - [ ] Backpropagating Errors To More Layers
   - [ ] Backpropagating Errors with Matrix Multiplication
   - [ ] How Do We Actually Update Weights?
