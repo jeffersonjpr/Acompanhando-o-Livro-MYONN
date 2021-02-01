@@ -31,7 +31,7 @@ _________________________________________________
   - [x] A Three Layer Example with Matrix Multiplication
   - [x] Learning Weights From More Than One Node
   - [x] Backpropagating Errors From More Output Nodes
-  - [ ] Backpropagating Errors To More Layers
+  - [X] Backpropagating Errors To More Layers
   - [ ] Backpropagating Errors with Matrix Multiplication
   - [ ] How Do We Actually Update Weights?
   - [ ] Weight Update Worked Example
