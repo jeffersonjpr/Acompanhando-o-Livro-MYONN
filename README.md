@@ -29,7 +29,7 @@ _________________________________________________
   - [x] Following Signals Through A Neural Network
   - [x] Matrix Multiplication is Useful .. Honest!
   - [x] A Three Layer Example with Matrix Multiplication
-  - [ ] Learning Weights From More Than One Node
+  - [x] Learning Weights From More Than One Node
   - [ ] Backpropagating Errors From More Output Nodes
   - [ ] Backpropagating Errors To More Layers
   - [ ] Backpropagating Errors with Matrix Multiplication
