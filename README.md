@@ -32,7 +32,7 @@ _________________________________________________
   - [x] Learning Weights From More Than One Node
   - [x] Backpropagating Errors From More Output Nodes
   - [X] Backpropagating Errors To More Layers
-  - [ ] Backpropagating Errors with Matrix Multiplication
+  - [x] Backpropagating Errors with Matrix Multiplication
   - [ ] How Do We Actually Update Weights?
   - [ ] Weight Update Worked Example
   - [ ] Preparing Data
