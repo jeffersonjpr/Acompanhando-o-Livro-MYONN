@@ -65,7 +65,7 @@ _________________________________________________
   - [x] A Sloped Straight Line
   - [x] A Curved Line
   - [x] Calculus By Hand
-  - [ ] Calculus Not By Hand
+  - [x] Calculus Not By Hand
   - [ ] Calculus without Plotting Graphs
   - [ ] Patterns
   - [ ] Functions of Functions
