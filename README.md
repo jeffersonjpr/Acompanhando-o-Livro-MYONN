@@ -62,7 +62,7 @@ _________________________________________________
 - [ ] Appendix A:
 - [ ] A Gentle Introduction to Calculus
   - [x] A Flat Line
-  - [ ] A Sloped Straight Line
+  - [x] A Sloped Straight Line
   - [ ] A Curved Line
   - [ ] Calculus By Hand
   - [ ] Calculus Not By Hand
