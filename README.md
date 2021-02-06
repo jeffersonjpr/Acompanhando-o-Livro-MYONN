@@ -64,7 +64,7 @@ _________________________________________________
   - [x] A Flat Line
   - [x] A Sloped Straight Line
   - [x] A Curved Line
-  - [ ] Calculus By Hand
+  - [x] Calculus By Hand
   - [ ] Calculus Not By Hand
   - [ ] Calculus without Plotting Graphs
   - [ ] Patterns
