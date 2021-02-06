@@ -63,7 +63,7 @@ _________________________________________________
 - [ ] A Gentle Introduction to Calculus
   - [x] A Flat Line
   - [x] A Sloped Straight Line
-  - [ ] A Curved Line
+  - [x] A Curved Line
   - [ ] Calculus By Hand
   - [ ] Calculus Not By Hand
   - [ ] Calculus without Plotting Graphs
