@@ -66,7 +66,7 @@ _________________________________________________
   - [x] A Curved Line
   - [x] Calculus By Hand
   - [x] Calculus Not By Hand
-  - [ ] Calculus without Plotting Graphs
+  - [x] Calculus without Plotting Graphs
   - [ ] Patterns
   - [ ] Functions of Functions
   - [ ] You can do Calculus!
