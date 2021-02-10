@@ -59,8 +59,8 @@ _________________________________________________
 
 - [ ] Epilogue
 
-- [ ] Appendix A:
-- [ ] A Gentle Introduction to Calculus
+- [x] Appendix A:
+- [x] A Gentle Introduction to Calculus
   - [x] A Flat Line
   - [x] A Sloped Straight Line
   - [x] A Curved Line
@@ -69,7 +69,7 @@ _________________________________________________
   - [x] Calculus without Plotting Graphs
   - [x] Patterns
   - [x] Functions of Functions
-  - [ ] You can do Calculus!
+  - [x] You can do Calculus!
 
 - [ ] Appendix B:
 - [ ] Do It with a Raspberry Pi
