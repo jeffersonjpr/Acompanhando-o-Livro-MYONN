@@ -67,7 +67,7 @@ _________________________________________________
   - [x] Calculus By Hand
   - [x] Calculus Not By Hand
   - [x] Calculus without Plotting Graphs
-  - [ ] Patterns
+  - [x] Patterns
   - [ ] Functions of Functions
   - [ ] You can do Calculus!
 
