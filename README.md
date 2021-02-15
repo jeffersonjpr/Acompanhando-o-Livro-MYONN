@@ -33,7 +33,7 @@ _________________________________________________
   - [x] Backpropagating Errors From More Output Nodes
   - [X] Backpropagating Errors To More Layers
   - [x] Backpropagating Errors with Matrix Multiplication
-  - [ ] How Do We Actually Update Weights?
+  - [x] How Do We Actually Update Weights?
   - [ ] Weight Update Worked Example
   - [ ] Preparing Data
 
