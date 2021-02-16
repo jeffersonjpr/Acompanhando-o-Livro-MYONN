@@ -35,7 +35,7 @@ _________________________________________________
   - [x] Backpropagating Errors with Matrix Multiplication
   - [x] How Do We Actually Update Weights?
   - [x] Weight Update Worked Example
-  - [ ] Preparing Data
+  - [x] Preparing Data
 
 - [ ] Part 2 - DIY with Python
   - [x] Python
