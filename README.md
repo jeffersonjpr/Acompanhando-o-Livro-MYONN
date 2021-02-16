@@ -19,7 +19,7 @@ _________________________________________________
   - [x] How will we do it?
   - [x] Author’s Note
 
-- [ ] Part 1 - How They Work
+- [x] Part 1 - How They Work
   - [x] Easy for Me, Hard for You
   - [x] [A Simple Predicting Machine](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%201%20-%20A%20Simple%20Predicting%20Machine)
   - [x] Classifying is Not Very Different from Predicting
