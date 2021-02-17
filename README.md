@@ -50,6 +50,8 @@ _________________________________________________
     - [x] Plotting arrays
     - [x] Objects
   - [ ] Neural Network with Python
+    - [x] The Skeleton Code
+    - [ ] Initialising the Network
   - [ ] The MNIST Dataset of Handwritten Numbers
 
 - [ ] Part 3 - Even More Fun
