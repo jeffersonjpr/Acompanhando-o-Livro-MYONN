@@ -53,8 +53,9 @@ _________________________________________________
   - [ ] Neural Network with Python
     - [x] The Skeleton Code
     - [x] Initialising the Network
-    - [ ] Weights - The Heart of the Network
-    
+    - [x] Weights - The Heart of the Network
+    - [ ] Optional: More Sophisticated Weights
+
   - [ ] The MNIST Dataset of Handwritten Numbers
 
 - [ ] Part 3 - Even More Fun
