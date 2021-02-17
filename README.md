@@ -54,7 +54,8 @@ _________________________________________________
     - [x] The Skeleton Code
     - [x] Initialising the Network
     - [x] Weights - The Heart of the Network
-    - [ ] Optional: More Sophisticated Weights
+    - [x] Optional: More Sophisticated Weights
+    - [ ] Querying the Network
 
   - [ ] The MNIST Dataset of Handwritten Numbers
 
