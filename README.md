@@ -49,9 +49,12 @@ _________________________________________________
     - [x] Arrays
     - [x] Plotting arrays
     - [x] Objects
+
   - [ ] Neural Network with Python
     - [x] The Skeleton Code
-    - [ ] Initialising the Network
+    - [x] Initialising the Network
+    - [ ] Weights - The Heart of the Network
+    
   - [ ] The MNIST Dataset of Handwritten Numbers
 
 - [ ] Part 3 - Even More Fun
