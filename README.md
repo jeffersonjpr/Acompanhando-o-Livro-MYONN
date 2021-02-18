@@ -50,7 +50,7 @@ _________________________________________________
     - [x] Plotting arrays
     - [x] Objects
 
-  - [ ] [Neural Network with Python](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/Neural%20Networks%20wit%20Python)
+  - [x] [Neural Network with Python](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/Neural%20Networks%20wit%20Python)
     - [x] The Skeleton Code
     - [x] Initialising the Network
     - [x] Weights - The Heart of the Network
@@ -58,7 +58,7 @@ _________________________________________________
     - [x] Querying the Network
     - [x] The Code Thus Far
     - [x] Training the Network
-    - [ ] The Complete Neural Network Code
+    - [x] The Complete Neural Network Code
 
   - [ ] The MNIST Dataset of Handwritten Numbers
 
