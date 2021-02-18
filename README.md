@@ -60,7 +60,7 @@ _________________________________________________
     - [x] Training the Network
     - [x] The Complete Neural Network Code
 
-  - [ ] [The MNIST Dataset of Handwritten Numbers](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/The%MNIST%Dataset%of%Handwritten%Numbers)
+  - [ ] [The MNIST Dataset of Handwritten Numbers](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/The%20MNIST%20Dataset%20of%20Handweitten%20Numbers)
 
     - [ ] Preparing the MNIST Training Data
 
