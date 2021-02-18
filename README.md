@@ -50,12 +50,13 @@ _________________________________________________
     - [x] Plotting arrays
     - [x] Objects
 
-  - [ ] Neural Network with Python
+  - [ ] [Neural Network with Python](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/Neural%20Networks%20wit%20Python)
     - [x] The Skeleton Code
     - [x] Initialising the Network
     - [x] Weights - The Heart of the Network
     - [x] Optional: More Sophisticated Weights
-    - [ ] Querying the Network
+    - [x] Querying the Network
+    - [ ] The Code Thus Far
 
   - [ ] The MNIST Dataset of Handwritten Numbers
 
