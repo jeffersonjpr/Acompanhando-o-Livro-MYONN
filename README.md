@@ -57,7 +57,8 @@ _________________________________________________
     - [x] Optional: More Sophisticated Weights
     - [x] Querying the Network
     - [x] The Code Thus Far
-    - [ ] Training the Network
+    - [x] Training the Network
+    - [ ] The Complete Neural Network Code
 
   - [ ] The MNIST Dataset of Handwritten Numbers
 
