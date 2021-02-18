@@ -56,7 +56,8 @@ _________________________________________________
     - [x] Weights - The Heart of the Network
     - [x] Optional: More Sophisticated Weights
     - [x] Querying the Network
-    - [ ] The Code Thus Far
+    - [x] The Code Thus Far
+    - [ ] Training the Network
 
   - [ ] The MNIST Dataset of Handwritten Numbers
 
