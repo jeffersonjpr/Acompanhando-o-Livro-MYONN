@@ -66,7 +66,7 @@ _________________________________________________
     - [x] Testing the Network
     - [x] Training and Testing with the Full Datasets
     - [x] Some Improvements: Tweaking the Learning Rate
-    - [ ] Some Improvements: Doing Multiple Runs
+    - [x] Some Improvements: Doing Multiple Runs
     - [ ] Change Network Shape
 
 - [ ] Part 3 - Even More Fun
