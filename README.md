@@ -64,7 +64,8 @@ _________________________________________________
 
     - [x] Preparing the MNIST Training Data
     - [x] Testing the Network
-    - [ ] Training and Testing with the Full Datasets
+    - [x] Training and Testing with the Full Datasets
+    - [ ] Some Improvements: Tweaking the Learning Rate
 
 - [ ] Part 3 - Even More Fun
   - [ ] Your Own Handwriting
