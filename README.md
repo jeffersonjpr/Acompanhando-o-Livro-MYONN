@@ -63,7 +63,8 @@ _________________________________________________
   - [ ] [The MNIST Dataset of Handwritten Numbers](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/The%20MNIST%20Dataset%20of%20Handweitten%20Numbers)
 
     - [x] Preparing the MNIST Training Data
-    - [ ] Testing the Network
+    - [x] Testing the Network
+    - [ ] Training and Testing with the Full Datasets
 
 - [ ] Part 3 - Even More Fun
   - [ ] Your Own Handwriting
