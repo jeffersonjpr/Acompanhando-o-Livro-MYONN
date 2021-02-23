@@ -37,7 +37,7 @@ _________________________________________________
   - [x] Weight Update Worked Example
   - [x] Preparing Data
 
-- [ ] Part 2 - DIY with Python
+- [x] Part 2 - DIY with Python
   - [x] Python
   - [x] Interactive Python = IPython
   - [x] [A Very Gentle Start with Python](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/A%20Very%20Gentle%20Start%20with%20Python)
@@ -60,7 +60,7 @@ _________________________________________________
     - [x] Training the Network
     - [x] The Complete Neural Network Code
 
-  - [ ] [The MNIST Dataset of Handwritten Numbers](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/The%20MNIST%20Dataset%20of%20Handweitten%20Numbers)
+  - [x] [The MNIST Dataset of Handwritten Numbers](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%202%20-%20DIY%20with%20Python/The%20MNIST%20Dataset%20of%20Handweitten%20Numbers)
 
     - [x] Preparing the MNIST Training Data
     - [x] Testing the Network
