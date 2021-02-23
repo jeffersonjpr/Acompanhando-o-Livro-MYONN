@@ -68,7 +68,7 @@ _________________________________________________
     - [x] Some Improvements: Tweaking the Learning Rate
     - [x] Some Improvements: Doing Multiple Runs
     - [X] Change Network Shape
-    - [ ] Good Work!
+    - [x] Good Work!
 
 - [ ] Part 3 - Even More Fun
   - [ ] Your Own Handwriting
