@@ -67,7 +67,8 @@ _________________________________________________
     - [x] Training and Testing with the Full Datasets
     - [x] Some Improvements: Tweaking the Learning Rate
     - [x] Some Improvements: Doing Multiple Runs
-    - [ ] Change Network Shape
+    - [X] Change Network Shape
+    - [ ] Good Work!
 
 - [ ] Part 3 - Even More Fun
   - [ ] Your Own Handwriting
