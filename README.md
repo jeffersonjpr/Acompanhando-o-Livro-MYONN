@@ -71,7 +71,7 @@ _________________________________________________
     - [x] Good Work!
 
 - [ ] Part 3 - Even More Fun
-  - [x] [Your Own Handwriting](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%203%20-%20Even%20More%20Fun/1%20Your%20Own%Handwriting)
+  - [x] [Your Own Handwriting](https://github.com/jeffersonjpr/Acompanhando-o-Livro-MYONN/tree/main/resolucoes/Part%203%20-%20Even%20More%20Fun/1%20Your%20Own%20Handwriting)
   - [ ] Inside the Mind of a Neural Network
   - [ ] Creating New Training Data: Rotations
 
