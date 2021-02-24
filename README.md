@@ -71,7 +71,7 @@ _________________________________________________
     - [x] Good Work!
 
 - [ ] Part 3 - Even More Fun
-  - [ ] Your Own Handwriting
+  - [x] Your Own Handwriting
   - [ ] Inside the Mind of a Neural Network
   - [ ] Creating New Training Data: Rotations
 
