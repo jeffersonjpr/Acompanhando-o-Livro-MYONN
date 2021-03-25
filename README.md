@@ -1,5 +1,5 @@
 # **Acompanhando o livro Make Your Own Neural Network**
-Repositório feito para guardar o meu progresso na leitura do livro, para resolução dos exercícios e outras coisas que eu encontre que estejam relacionadas ao tema.
+Repositório feito com intuito de anotar o meu progresso na leitura do livro, resolução dos exercícios e conteúdos relacionados ao tema.
 
 Repositório Oficial: [makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)    
 Compre o livro: [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/r)  
